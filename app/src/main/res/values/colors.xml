@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="purple">#800080</color> <!-- Màu tím chuẩn -->
+    <color name="lavender">#E6E6FA</color> <!-- Màu tím nhạt -->
+    <color name="violet">#8A2BE2</color> <!-- Màu tím violet -->
+    <color name="magenta">#FF00FF</color> <!-- Màu tím magenta -->
+    <color name="plum">#8E4585</color> <!-- Màu tím mận -->
+    <color name="orchid">#DA70D6</color> <!-- Màu tím hoa lan -->
+    <color name="amethyst">#9966CC</color> <!-- Màu tím amethyst -->
+    <color name="pale_green">#98FB98</color>
+    <color name="light_pastel_green">#B0E57C</color>
+    <color name="mint_green">#A8E4A0</color>
+    <color name="gray">#808080</color>  <!-- Màu xám chuẩn -->
+    <color name="light_gray">#D3D3D3</color>  <!-- Màu xám nhạt -->
+    <color name="dark_gray">#A9A9A9</color>   <!-- Màu xám đậm -->
+    <color name="charcoal_gray">#36454F</color> <!-- Màu xám đen -->
+    <!-- Màu xanh Facebook -->
+    <color name="facebook_blue">#1877F2</color>
+
+    <!-- Màu xanh lá cây sáng -->
+    <color name="light_green">#81C784</color>
+
+    <!-- Màu xanh dương sáng -->
+    <color name="light_blue">#64B5F6</color>
+
+    <!-- Màu xanh dương đậm -->
+    <color name="dark_blue">#1565C0</color>
+
+    <!-- Màu xanh lá cây đậm -->
+    <color name="dark_green">#388E3C</color>
+
+    <!-- Màu xanh nước biển -->
+    <color name="sea_blue">#0288D1</color>
+
+    <!-- Màu xanh ngọc -->
+    <color name="emerald_green">#2E7D32</color>
+
+    <!-- Màu xanh xám -->
+    <color name="blue_gray">#607D8B</color>
+</resources>

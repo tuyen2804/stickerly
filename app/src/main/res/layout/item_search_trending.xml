@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:gravity="center_vertical"
+    android:layout_margin="8dp"
+    android:orientation="horizontal">
+    <androidx.constraintlayout.utils.widget.ImageFilterView
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        app:round="8dp"
+        android:src="@color/gray"/>
+    <TextView
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_margin="8dp"
+        android:layout_height="wrap_content"
+        android:text="cats"
+        android:textColor="@color/black"
+        android:id="@+id/txtNameSticker"/>
+    <ImageView
+        android:layout_width="22dp"
+        android:layout_height="22dp"
+        android:id="@+id/iconIncrease"
+        android:background="@drawable/ictop"
+        android:visibility="invisible"/>
+
+</LinearLayout>
